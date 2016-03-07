@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Recycler View</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_ellipsis">&#xf142;</string>
+    <string name="play">&#xf04b;</string>
+    <string name="tick">&#xf00c;</string>
+    <string name="cross">&#xf00d;</string>
+
+    <string name="threebar">&#xf0c9;</string>
+    <string name="title_activity_alpha_list">AlphaListActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main22">Main22Activity</string>
+
+</resources>
